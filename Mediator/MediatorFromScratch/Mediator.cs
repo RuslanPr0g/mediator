@@ -31,7 +31,8 @@ namespace MediatorFromScratch
             _handlerDetails.TryGetValue(requestType, out var requestHandlerType);
             var handler = _serviceResolver(requestHandlerType);
 
-            return handler;
+            return await (Task<TResponse>)handler.GetType().GetMethod("HandleAsync")
+                .Invoke(handler, new[] { request });
         }
     }
 }
