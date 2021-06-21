@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace ApplicationSample
 {
@@ -6,11 +7,18 @@ namespace ApplicationSample
     {
         static void Main(string[] args)
         {
+            var serviceProvider = new ServiceCollection()
+                .AddTransient<PrintToConsoleHandler>()
+                .BuildServiceProvider();
+
             var request = new PrintToConsoleRequest()
             {
                 Text = "Hello Mediator!"
             };
 
+
+
+            // ** The flow:
             // request
             // handler
             // mediator
