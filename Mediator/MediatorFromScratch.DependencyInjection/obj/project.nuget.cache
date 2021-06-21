@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cJw4bdXs/NtdsHM31O1lIms+bP+bESL3Cw74xXlDhDsPzC8yyt+ygkPUXQ36hKdTVnDMfEiA488iVI0lpD8CnA==",
+  "dgSpecHash": "mBKM1/wej3YA0h2Za5975rCb3zu34aI0JhisVrhB+9mdLd73n9fw22zOt2Y3vGYW8hvUDdiYIbo8vFsOQlpQUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch.DependencyInjection\\MediatorFromScratch.DependencyInjection.csproj",
   "expectedPackageFiles": [
