@@ -19,3 +19,5 @@ C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\ob
 C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\obj\Debug\net5.0\ref\ApplicationSample.dll
 C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\obj\Debug\net5.0\ApplicationSample.pdb
 C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\obj\Debug\net5.0\ApplicationSample.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\bin\Debug\net5.0\MediatorFromScratch.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\ApplicationSample\bin\Debug\net5.0\MediatorFromScratch.DependencyInjection.pdb

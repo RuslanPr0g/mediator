@@ -6,14 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ApplicationSample/1.0.0": {
+      "MediatorFromScratch.DependencyInjection/1.0.0": {
         "dependencies": {
           "MediatorFromScratch": "1.0.0",
-          "MediatorFromScratch.DependencyInjection": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.1"
         },
         "runtime": {
-          "ApplicationSample.dll": {}
+          "MediatorFromScratch.DependencyInjection.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection/5.0.1": {
@@ -39,20 +38,11 @@
         "runtime": {
           "MediatorFromScratch.dll": {}
         }
-      },
-      "MediatorFromScratch.DependencyInjection/1.0.0": {
-        "dependencies": {
-          "MediatorFromScratch": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection": "5.0.1"
-        },
-        "runtime": {
-          "MediatorFromScratch.DependencyInjection.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "ApplicationSample/1.0.0": {
+    "MediatorFromScratch.DependencyInjection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -72,11 +62,6 @@
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
     },
     "MediatorFromScratch/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MediatorFromScratch.DependencyInjection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

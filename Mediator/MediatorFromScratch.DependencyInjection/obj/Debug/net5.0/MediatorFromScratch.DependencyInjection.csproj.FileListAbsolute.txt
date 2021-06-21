@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\MediatorFromScratch.DependencyInjection.deps.json
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\MediatorFromScratch.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\ref\MediatorFromScratch.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\MediatorFromScratch.DependencyInjection.pdb
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\MediatorFromScratch.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\bin\Debug\net5.0\MediatorFromScratch.pdb
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\ref\MediatorFromScratch.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch.DependencyInjection\obj\Debug\net5.0\MediatorFromScratch.DependencyInjection.pdb
