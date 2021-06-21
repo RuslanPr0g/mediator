@@ -1,4 +1,5 @@
 ﻿using MediatorFromScratch;
+using MediatorFromScratch.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -11,20 +12,15 @@ namespace ApplicationSample
         static async Task Main(string[] args)
         {
             var serviceProvider = new ServiceCollection()
-                .AddTransient<PrintToConsoleHandler>()
+                .AddMediator(ServiceLifetime.Scoped, typeof(Program))
                 .BuildServiceProvider();
 
-            var handlerDetails = new Dictionary<Type, Type>()
-            {
-                { typeof(PrintToConsoleRequest), typeof(PrintToConsoleHandler) }
-            };
+            var mediator = serviceProvider.GetRequiredService<IMediator>();
 
             var request = new PrintToConsoleRequest()
             {
                 Text = "Hello Mediator!"
             };
-
-            IMediator mediator = new Mediator(serviceProvider.GetRequiredService, handlerDetails);
 
             await mediator.SendAsync(request);
 
