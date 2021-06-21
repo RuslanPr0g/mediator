@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\bin\Debug\net5.0\MediatorFromScratch.deps.json
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\bin\Debug\net5.0\MediatorFromScratch.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\bin\Debug\net5.0\ref\MediatorFromScratch.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\bin\Debug\net5.0\MediatorFromScratch.pdb
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\ref\MediatorFromScratch.dll
+C:\Users\Administrator\Desktop\MediatorFromScratch\Mediator\MediatorFromScratch\obj\Debug\net5.0\MediatorFromScratch.pdb
