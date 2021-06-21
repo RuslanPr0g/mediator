@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using MediatorFromScratch;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 
 namespace ApplicationSample
@@ -16,7 +17,7 @@ namespace ApplicationSample
                 Text = "Hello Mediator!"
             };
 
-
+            IMediator mediator = new Mediator(serviceProvider.GetRequiredService);
 
             // ** The flow:
             // request
