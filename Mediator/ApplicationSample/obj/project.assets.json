@@ -32,6 +32,20 @@
         "runtime": {
           "bin/placeholder/MediatorFromScratch.dll": {}
         }
+      },
+      "MediatorFromScratch.DependencyInjection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MediatorFromScratch": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MediatorFromScratch.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MediatorFromScratch.DependencyInjection.dll": {}
+        }
       }
     }
   },
@@ -84,11 +98,17 @@
       "type": "project",
       "path": "../MediatorFromScratch/MediatorFromScratch.csproj",
       "msbuildProject": "../MediatorFromScratch/MediatorFromScratch.csproj"
+    },
+    "MediatorFromScratch.DependencyInjection/1.0.0": {
+      "type": "project",
+      "path": "../MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj",
+      "msbuildProject": "../MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "MediatorFromScratch >= 1.0.0",
+      "MediatorFromScratch.DependencyInjection >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1"
     ]
   },
@@ -124,6 +144,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch.DependencyInjection\\MediatorFromScratch.DependencyInjection.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch.DependencyInjection\\MediatorFromScratch.DependencyInjection.csproj"
+            },
             "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch\\MediatorFromScratch.csproj": {
               "projectPath": "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch\\MediatorFromScratch.csproj"
             }
