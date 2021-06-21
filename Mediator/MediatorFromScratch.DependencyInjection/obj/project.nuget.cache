@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJw4bdXs/NtdsHM31O1lIms+bP+bESL3Cw74xXlDhDsPzC8yyt+ygkPUXQ36hKdTVnDMfEiA488iVI0lpD8CnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\MediatorFromScratch\\Mediator\\MediatorFromScratch.DependencyInjection\\MediatorFromScratch.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
